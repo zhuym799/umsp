@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE umsp-hfes
+	PUBLIC "-//DRX Software//dtd umsp hfes configuration 3.0//EN"
+	"http://dev.hx-soft.cn/dtd/umsp-hfes-conf-3.0.dtd">
+<umsp-hfes characterEncoding="utf-8">
+    
+    <file-store diskFreeSize="1GB">
+        <store-location value="datastore-change-this/files" />
+    </file-store>
+    
+</umsp-hfes>
+
+

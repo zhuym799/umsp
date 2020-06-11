@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE umsp
+	PUBLIC "-//DRX Software//dtd umsp configuration 3.0//EN"
+	"http://dev.hx-soft.cn/dtd/umsp-conf-3.0.dtd">
+<umsp adminPort="6100" defaultConnector="default">
+	<connector label="umsp" id="default" port="9349" host="0.0.0.0">
+		<description>umsp environment</description>
+	</connector>
+</umsp>
